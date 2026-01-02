@@ -1,4 +1,6 @@
 ## Overview
+
+
 A secure, gas‑optimized Ethereum raffle contract built with **Solidity**, **Foundry**, and **Chainlink VRF v2.5**.This project delivers **auditable randomness**, **reentrancy protection**, and **role‑based access control** for transparent prize draws on the **Sepolia testnet**.Includes full deployment scripts, comprehensive tests, and automatic **Etherscan verification**.
 
 ---
@@ -20,7 +22,7 @@ A secure, gas‑optimized Ethereum raffle contract built with **Solidity**, **Fo
 ---
 
 ##  Tech Stack
-- Solidity v0.8.18+
+- Solidity v0.8.19+
 - Foundry (Forge, Cast, Anvil)
 - Chainlink VRF v2.5
 - Alchemy RPC for Sepolia
