@@ -3,6 +3,10 @@
 
 A secure, gas‑optimized Ethereum raffle contract built with **Solidity**, **Foundry**, and **Chainlink VRF v2.5**.This project delivers **auditable randomness**, **reentrancy protection**, and **role‑based access control** for transparent prize draws on the **Sepolia testnet**.Includes full deployment scripts, comprehensive tests, and automatic **Etherscan verification**.
 
+Behold… the demo.
+
+https://github.com/user-attachments/assets/dac23340-a8c9-41a3-895d-e8a82d9b6fed
+
 ---
 
 ##  Features
